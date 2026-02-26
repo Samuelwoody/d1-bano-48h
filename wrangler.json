@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "d1-bano-48h",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "2e87ae29-ca3f-4abc-aaad-ff334a3bb58e",
+			"database_name": "banos-48h"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
